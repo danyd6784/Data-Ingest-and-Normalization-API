@@ -1,0 +1,23 @@
+{
+  "name": "data-ingest-and-normalization-api",
+  "version": "1.0.0",
+  "description": "API that allows you to ingest messy xml, csv, and JSON data, normalize it and stores it in a postgres database.",
+  "homepage": "https://github.com/danyd6784/Data-Ingest-and-Normalization-API#readme",
+  "bugs": {
+    "url": "https://github.com/danyd6784/Data-Ingest-and-Normalization-API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danyd6784/Data-Ingest-and-Normalization-API.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
